@@ -10,3 +10,9 @@ D:\ASP.NET\ASP.NET webpages\ASP.NET\QueryCsPractice1\QueryCsPractice1\obj\Debug\
 D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\bin\Debug\QueryCsPractice1.exe.config
 D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\obj\Debug\QueryCsPractice1.exe
 D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\obj\Debug\QueryCsPractice1.pdb
+D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\bin\Debug\QueryCsPractice1.exe
+D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\bin\Debug\QueryCsPractice1.pdb
+D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\obj\Debug\QueryCsPractice1.csprojResolveAssemblyReference.cache
+D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\obj\Debug\QueryCsPractice1.Form1.resources
+D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\obj\Debug\QueryCsPractice1.Properties.Resources.resources
+D:\CC4 Project (Repository)\Transact-SQL-training\QueryCsPractice1\QueryCsPractice1\obj\Debug\QueryCsPractice1.csproj.GenerateResource.Cache
